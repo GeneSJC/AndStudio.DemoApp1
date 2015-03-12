@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cameraOverlay">#bf221f1f</color>
+    <color name="orange_bg">#fe7f0a</color>
+    <color name="green1_bg">#b8e68a</color>
+    <color name="green2_bg">#006600</color>
+    <color name="verification_dialog_color">#e6e6e6</color>
+</resources>
